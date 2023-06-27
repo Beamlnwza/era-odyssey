@@ -18,7 +18,7 @@ export default function Home() {
             <h2>กระโดดๆ ยิงๆๆๆ</h2>
           </div>
           <p className="font-bold text-xl text-red-600 animate-pulse">
-            จัดจำหน่าย วันไหนไม่รู้
+            จัดจำหน่าย ก่อน 24 กรกฏาคม ถ้าได้ไป Symposium
           </p>
           <Link href="/links">
             <button className="border bg-white flex justify-center items-center h-12 px-2 font-extrabold text-2xl pt-2">
